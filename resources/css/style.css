@@ -270,11 +270,11 @@ footer {
 }
 
 .ion-social-linkedin:hover {
-    color: #00aced;
+    color: #0e76a8;
 }
 
-.ion-social-twitter:hover {
-    color: #dd4b39;
+.ion-social-github:hover {
+    color: #211F1F;
 }
 
 footer p {
