@@ -130,7 +130,7 @@ header {
 
 .main-nav li a:hover, 
 .main-nav li a:active {
-    color: #ffaff6;
+    color: rgba(185, 15, 128, 0.33);
     transition: color 0.2s;
 }
 
