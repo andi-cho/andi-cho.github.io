@@ -192,6 +192,7 @@ header {
 
 .about-para {
     margin-top: 40px;
+    padding-bottom: 10px;
 }
 /* ----------------------------------------------------- */
 /* RESUME */
@@ -201,9 +202,6 @@ header {
 /* CONTACT */
 /* ----------------------------------------------------- */
 
-.section-contact {
-    height: 100vh;
-}
 
 .contact-form {
     display: block;
